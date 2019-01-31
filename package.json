@@ -1,0 +1,14 @@
+{
+  "name": "myedenred-card",
+  "description": "access myedenred card data",
+  "version": "1.0.0",
+  "license": "GPLv3",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rgl/myedenred-card.git"
+  },
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
